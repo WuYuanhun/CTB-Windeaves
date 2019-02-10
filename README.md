@@ -23,4 +23,4 @@ The functionalities that we used AFSA are
 2. process a more efficient way of public transportation resources (i.e. taxi...)
 
 #### why we choose AFSA?
-As far as we are concerned, AFSA is naturally competent to our mission due to its efficiency. The task of dispatching public transportation resources requires strong calculations power and high feeding back rate that keeps the system be able to respond to current situation in a apro-real time. AFSA allows the system to process and give an apro-optimal solution in a relatively short time period. Still, we improve our time complexity in cost of the most optimal solution.
+As far as we are concerned, AFSA is naturally competent to our mission due to its efficiency. The task of dispatching public transportation resources requires strong calculations power and high feeding back rate that keeps the system be able to respond to current situation in a apro-real time. AFSA allows the system to process and give an apro-optimal solution in a relatively short time period. Unavoidably, we improve our time complexity in cost of the most optimal solution.
